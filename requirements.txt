@@ -1,6 +1,7 @@
 starlette
 torch
 fastai
+jinja2
 aiofiles
 aiohttp
 asyncio
