@@ -1,0 +1,22 @@
+.bg {
+    background-color: rgb(227, 240, 242);
+}
+
+.title {
+    margin-top: 7rem;
+    font-style: bold;
+    text-align: center;
+}
+
+.formfile {
+    margin-top: 6rem;
+    margin-left: 25rem;
+}
+
+.formfile2 {
+    margin-left: 25rem;
+}
+
+.btnposition {
+    margin-left: 40rem;
+}
