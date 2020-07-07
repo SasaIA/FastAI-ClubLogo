@@ -21,8 +21,6 @@ logging.basicConfig(stream=sys.stderr, level=logging.DEBUG)
 
 templates = Jinja2Templates(directory='templates')
 
-
-
 @app.middleware("http")
 async def add_custom_header(request, call_next):
     logging.info("====infostart====")
